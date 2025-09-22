@@ -101,3 +101,7 @@ Feel free to contribute additional resources that align with the engineering-foc
 ---
 
 *This repository is maintained as a living document. Resources are regularly updated to reflect the latest developments in quantum computing for engineers.*
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
