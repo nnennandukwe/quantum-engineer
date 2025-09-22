@@ -25,7 +25,9 @@ This repository is designed for:
 
 ## 🛠️ Tools & Frameworks
 
-### Qiskit - IBM's Quantum Development Kit
+### Quantum Programming Frameworks
+
+#### Qiskit - IBM's Quantum Development Kit
 - **[Qiskit GitHub Repository](https://github.com/Qiskit/qiskit)** - Open-source quantum computing framework for Python
 - **[IBM Quantum Qiskit](https://www.ibm.com/quantum/qiskit)** - Official Qiskit platform and documentation
 
@@ -34,6 +36,51 @@ Qiskit is the most popular quantum computing framework, offering:
 - Access to real quantum hardware
 - Extensive documentation and community support
 - Integration with classical ML libraries
+
+#### PennyLane - Quantum Machine Learning Framework
+- **[PennyLane](https://pennylane.ai/)** - Cross-platform quantum machine learning library
+- **[PennyLane Documentation](https://docs.pennylane.ai/)** - Comprehensive guides and tutorials
+
+PennyLane specializes in quantum-classical hybrid computations:
+- Seamless integration with PyTorch, TensorFlow, and JAX
+- Automatic differentiation for quantum circuits
+- Focus on variational quantum algorithms and quantum ML
+- Hardware-agnostic approach supporting multiple backends
+
+#### Cirq - Google's Quantum Framework
+- **[Cirq GitHub Repository](https://github.com/quantumlib/Cirq)** - Open-source framework for NISQ circuits
+- **[Cirq Documentation](https://quantumai.google/cirq)** - Official documentation and tutorials
+
+Cirq focuses on near-term quantum algorithms:
+- Designed for noisy intermediate-scale quantum (NISQ) devices
+- Native support for Google's quantum hardware
+- Flexible circuit construction and optimization
+- Integration with TensorFlow Quantum
+
+### Cloud Quantum Platforms
+
+#### IBM Quantum Experience
+- **[IBM Quantum](https://quantum-computing.ibm.com/)** - Cloud access to IBM's quantum computers
+- Free tier available with queue-based access to real quantum hardware
+- Integrated with Qiskit for seamless development and execution
+
+#### Amazon Braket
+- **[Amazon Braket](https://aws.amazon.com/braket/)** - Fully managed quantum computing service
+- Unified interface to quantum computers from multiple providers (IonQ, Rigetti, D-Wave)
+- Pay-per-use model with simulators and real quantum hardware access
+- Integration with AWS ecosystem and classical computing resources
+
+#### Google Quantum AI
+- **[Google Quantum AI](https://quantumai.google/)** - Research platform and cloud access
+- Access to Google's quantum processors and simulators
+- Educational resources and research collaboration opportunities
+- Integration with Google Cloud Platform
+
+#### Azure Quantum
+- **[Microsoft Azure Quantum](https://azure.microsoft.com/en-us/products/quantum)** - Cloud quantum development platform
+- Access to quantum hardware from multiple partners
+- Q# programming language and development tools
+- Integration with classical Azure services for hybrid applications
 
 ## 🚀 Getting Started
 
